@@ -35,7 +35,7 @@ N.B. Create a GitHub repository for the Language Development in ASD set of assig
 
 ## 2. Now let's take dirty dirty data sets and make them into a tidy one
 
-Set the working directory (the directory with your data and code for these assignments): bla bla
+Set the working directory (the directory with your data and code for these assignments):
 
 ```{r}
 setwd('~/Dropbox (Personal)/My courses/2017 - Methods 3/Assignments/')
